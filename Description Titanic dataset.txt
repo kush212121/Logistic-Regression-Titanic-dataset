@@ -1,0 +1,4 @@
+Titanic dataset is one of the datasets available in sklearn.
+
+Your task is to:
+1. Use Logistic Regression and come with predictions.
